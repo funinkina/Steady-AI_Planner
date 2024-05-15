@@ -1,0 +1,5 @@
+model,models/embedding-001
+task_type,
+google_api_key,
+client_options,
+transport,
